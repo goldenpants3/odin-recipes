@@ -1,0 +1,28 @@
+h1 {
+    color: blue;
+    background-color: red;
+    size: 32px;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+    background-color: aqua;
+    color: chartreuse;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    color: chocolate;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ol {
+    background-color: cornflowerblue;
+    font-weight: 100;
+}
+
+ul {
+   text-align: right; 
+   color: crimson;
+}
